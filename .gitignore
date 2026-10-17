@@ -15,6 +15,12 @@ bin/
 # Go workspace file
 go.work
 
+# Local study notes and scratch diagram exports (not part of the submission)
+INTERVIEW_GUIDE.md
+EASY_INTERVIEW_GUIDE.md
+easier_interview_prep.md
+diagrams/
+
 # macOS files
 .DS_Store
 
